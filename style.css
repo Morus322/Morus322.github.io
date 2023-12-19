@@ -1,0 +1,16 @@
+    p {text-indent: 30px;}
+    table, th, td {border: 1px solid black; border-collapse: collapse}
+    caption {font-family:Verdana; font-size: 140%; color:SteelBlue}
+    tr {font-family:Helvetica; font-size: 120%; color:Sienna;  text-align:center}
+    th {font-family:Courier New; font-size: 140%; color:DarkKhaki}
+    marquee  {font-family:Arial; font-size: 200%; color:OliveDrab}
+h2 {font-family:Georgia; color:Olive; text-align:center}
+h1 {text-align:center}
+#p1 {color:Chocolate; font-size: 130%; font-family:Verdana}
+#p2 {font-size: 120%; font-family:Comic Sans MS;}
+#p3 {font-size: 120%; font-family:Andale Mono}
+#p4 {text-align:center; color:Chocolate; font-size: 130%; font-family:Verdana}
+#image {text-align: center}
+body {background-color:Beige}
+table {width:100%}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
